@@ -1,0 +1,8 @@
+Saved/
+Intermediate/
+DerivedDataCache/
+Binaries/
+*.pdb
+*.log
+*.tmp
+*.cache
